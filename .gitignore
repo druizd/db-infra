@@ -1,0 +1,6 @@
+# Secretos reales — nunca subir a GitHub
+.env
+
+# Certificados generados automáticamente
+certs/server.crt
+certs/server.key
